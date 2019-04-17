@@ -1,3 +1,1 @@
-Meu primeiro sistema no git
-
-Alterar de novo
+Meu primeiro sistema do GIT (alterado remotamente)
